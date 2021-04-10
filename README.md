@@ -1,0 +1,2 @@
+# Fashion-MNIST-classification-using-Convolutional-neural-network
+Fashion MNIST dataset is a dataset of clothes with 10 categories. here, a Convolutional neural network along with K-Fold cross-validation has been used for the classification of this dataset. also, for investigating the effect of regularization in model performance, a range of regularization algorithms including Dropout, Batch-Normalization, and etc have been used. at the end of this code, Keras Tuner has been employed for exploring the best hyperparameter configuration.
